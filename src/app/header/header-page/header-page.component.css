@@ -1,0 +1,19 @@
+.imagen-fondo{
+    background-color: #E1E7EA;
+    background-image: url('../../../assets/img/Banner-principal.png')!important;
+    height: 1276px !important;
+     width: 1366px !important;
+}
+.master{
+    background-image: url('../../../assets/img/Logo-masterClass.png')!important;
+    height: 120px;
+    width: 300px;
+    background-repeat: no-repeat;
+}
+.white-text{
+    color:white;
+    margin-top: 60px;
+}
+.white-text2{
+    color:white;
+}
